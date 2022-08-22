@@ -1,0 +1,14 @@
+{
+  "name": "@smartforce/csi_v2",
+  "main": "1b3ca511b4328479@2717.js",
+  "version": "2717.0.0",
+  "homepage": "https://observablehq.com/@smartforce/csi_v2",
+  "author": {
+    "name": "cau smartforce",
+    "url": "https://observablehq.com/@smartforce"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

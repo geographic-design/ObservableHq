@@ -1,0 +1,14 @@
+{
+  "name": "@smartforce/hoots",
+  "main": "37cd309a7f1687d3@628.js",
+  "version": "628.0.0",
+  "homepage": "https://observablehq.com/@smartforce/hoots",
+  "author": {
+    "name": "cau smartforce",
+    "url": "https://observablehq.com/@smartforce"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

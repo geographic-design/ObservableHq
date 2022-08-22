@@ -1,0 +1,14 @@
+{
+  "name": "@smartforce/annual-stats",
+  "main": "5f29c66c1237a5b4@88.js",
+  "version": "88.0.0",
+  "homepage": "https://observablehq.com/@smartforce/annual-stats",
+  "author": {
+    "name": "cau smartforce",
+    "url": "https://observablehq.com/@smartforce"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
